@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-24,
+				79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-7,
+				79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-30,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-27,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-31,
+				78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-118,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "LMiss"
+		},
+		{
+			"offsets": [
+				-118,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "DMiss"
+		},
+		{
+			"offsets": [
+				-118,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "UMiss"
+		},
+		{
+			"offsets": [
+				-118,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "RMiss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-135,
+				120
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "firstDeath",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-135,
+				121
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "deathLoop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-94,
+				100
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "deathConfirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				47
+			],
+			"anim": "4",
+			"fps": 24,
+			"name": "4",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				54
+			],
+			"anim": "5",
+			"fps": 24,
+			"name": "5",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/zakesprite",
+	"position": [
+		100,
+		420
+	],
+	"healthicon": "zake",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		102,
+		0
+	],
+	"camera_position": [
+		0,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1.8
+}
