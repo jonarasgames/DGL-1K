@@ -1,6 +1,10 @@
 # DGL-1K
 
-https://gamejolt.com/games/dgl1k/788294Criador Do Mod
+https://gamejolt.com/games/dgl1k/788294
+
+
+
+Criador Do Mod
 Jonaras Games - Criador, Progamador, Diretor, Criador da Week DGL e Compositor de But Bad • https://www.youtube.com/@JonarasGames
 
 Animador
